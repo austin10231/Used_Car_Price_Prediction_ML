@@ -63,7 +63,7 @@ Models were evaluated using **5-fold cross-validation (R²)**:
 
 Actual vs. Predicted values on the test set (log-transformed price):
 
-![Actual vs Predicted](pred_vs_actual.png)
+![Actual vs Predicted](image/pred_vs_actual.png)
 
 **Observations:**
 - Predictions align well with the ideal `y = x` line
