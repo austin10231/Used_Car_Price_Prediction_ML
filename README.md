@@ -93,5 +93,8 @@ Actual vs. Predicted values on the test set (log-transformed price):
 
 ---
 
-## Project Structure
+## Author
+
+© 2025 Mutian He  
+This project was developed by Mutian He for learning purposes.
 
